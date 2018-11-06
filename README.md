@@ -1,3 +1,5 @@
+***This is forked repository for a web app workshop by HubSpot that I attended in Fall18.
+
 # Base Web App
 
 Check it out at: https://pacific-bastion-31399.herokuapp.com/
